@@ -1,6 +1,6 @@
 # Project Information
 
- Data about the server is retrieved from a local json file found in the root directory. All you need to do to run the project is to clone the repository and run **npm run dev**.
+ Data about the server is retrieved from a local json file found in the root directory. All you need to do to run the project is to clone the repository, install all dependencies, and then run **npm run dev**.
 
 For RAM usage, CPU usage, and SIM details a line chart is used to display the information. As for modem details, a multi-axis line chart is used to show information about the downloaded data usage and the packets sent of the modem.
 
